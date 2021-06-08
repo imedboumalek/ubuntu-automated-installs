@@ -16,6 +16,8 @@ I like novelty so I distro-hop a lot, which means I have to spend weeks configur
 There are categorized install scripts for each dependency:
 
 - Languages
+- Frameworks
+  - flutter
 - Editors
   - neovim
   - vs-code
