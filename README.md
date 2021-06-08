@@ -1,8 +1,8 @@
-# Ubuntu automated dev dependencies install
+# Ubuntu automated dev dependencies install scripts
 
 ## Why am I making this?
 
-I like novelty so I distro-hop a lot, which means I have to spend weeks configuring a new machine. From dot files to dev dependencies, this could all be automated.
+I like novelty so I distro-hop a lot, which means I have to spend weeks configuring a new machine. From dot files to dev dependencies, all of this could be automated.
 
 ## How to contribute?
 
