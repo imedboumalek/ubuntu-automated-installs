@@ -17,7 +17,7 @@ There are categorized install scripts for each dependency:
 
 - Languages
 - Editors
-  - nvim
+  - neovim
   - vs-code
 - Tools
   - Docker
